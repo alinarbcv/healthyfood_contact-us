@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+$font: 'Roboto', sans-serif;
+$fonttext: 'Open Sans', sans-serif;
+$fontfantasy: 'Yellowtail', cursive;
+$colordark:#274C5B;
+$colorlight:#7EB693;
+
 
 * {
     margin: 0;
@@ -7,6 +13,8 @@
 }
 
 .header__after {
+    
+
     .header__backgroung {
         max-width: 1920px;
         height: 450px;
@@ -464,6 +472,9 @@
     }
 
 }
+
+
+ 
 
 
 
